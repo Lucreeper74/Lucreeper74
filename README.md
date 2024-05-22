@@ -7,7 +7,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucreeper74&layout=compact&theme=github_dark&card_width=1100&bg_color=24292f&border_color=343b45)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucreeper74&layout=compact&theme=github_dark&card_width=1100&bg_color=24292f&border_color=343b45)](https://github.com/anuraghazra/github-readme-stats/tree/master)
 
 <br>
 
