@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 
-![Luc_Creeper's GitHub stats](https://github-readme-stats.vercel.app/api?username=luc_creeper74&hide=contribs,prs)
+![My Public Stats](https://github-readme-stats.vercel.app/api?username=lucreeper74&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucreeper74&layout=compact&theme=github_dark&hide_border=true)
 
 <!--
 **Lucreeper74/Lucreeper74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
