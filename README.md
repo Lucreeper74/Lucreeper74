@@ -8,7 +8,3 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucreeper74&layout=compact&theme=github_dark&card_width=1100&bg_color=24292f&border_color=343b45)](https://github.com/anuraghazra/github-readme-stats/tree/master)
-
-<br>
-
-[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lucreeper74&theme=github-compact&bg_color=24292f&line=539bf5&custom_title=Recent%20Activity%20Graph%20&title_color=539bf5)](https://github.com/ashutosh00710/github-readme-activity-graph)
