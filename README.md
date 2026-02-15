@@ -1,6 +1,4 @@
-# About me
-
-
+# 👋 About me
 
 ```java
 /**
