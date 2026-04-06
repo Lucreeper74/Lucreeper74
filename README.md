@@ -20,7 +20,7 @@ public class Luc_Creeper74 extends Human {
 
     // Non-Exhaustive lists
     public List<Language> CODE = {C, C++, C#, Java, Rust, VHDL};
-    public List<Tools> = TOOLS = {"Arch Linux", "LaTeX", "Intellij", "Clion", "VsCode", "VIM", "KiCad"};
+    public List<Tools> TOOLS = {"Arch Linux", "LaTeX", "Intellij", "Clion", "VsCode", "VIM", "KiCad"};
 
     public static String INTEREST = "Electronics" + "Embedded Systems";
     private boolean curious = true;
